@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Employee {
+public class Employee extends Person{
+
+    // Employee miras alır Person dan
+
+    double salary;
+
+
+
 }

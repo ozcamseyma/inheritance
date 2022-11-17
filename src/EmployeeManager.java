@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class EmployeeManager {
+public class EmployeeManager extends PersonManager{
+
+    public void bestEmployee(){
+        System.out.println("Ayın elemani getirildi.");
+    }
+
+
 }
